@@ -1,2 +1,2 @@
 # shell
-shell script studies
+shell script programs
